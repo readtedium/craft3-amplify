@@ -29,17 +29,11 @@
     "php": ">=7.0",
     "craftcms/cms": "^3.0.0",
     "fasterimage/fasterimage": "~1.2",
-    "readtedium/craft3-amplify": "dev-master"
+    "guzzlehttp/guzzle": "dev-master"
   },
   "require-dev": {
     "codeception/codeception": "^2.4"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/readtedium/craft3-amplify"
-    }
-  ],
   "autoload": {
     "files": [
       "src/lib/simple_html_dom.php"
