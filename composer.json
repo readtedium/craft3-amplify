@@ -58,6 +58,10 @@
     "hasCpSettings": false,
     "hasCpSection": false,
     "changelogUrl": "https://raw.githubusercontent.com/balazscsaba2006/craft3-amplify/master/CHANGELOG.md",
-    "class": "humandirect\\amplify\\Amplify"
+    "class": "humandirect\\amplify\\Amplify",
+    "branch-alias": {
+          "dev-master": "1.0.x-dev"
+        }
+    }
   }
 }
