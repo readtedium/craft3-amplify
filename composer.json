@@ -29,7 +29,7 @@
     "php": ">=7.0",
     "craftcms/cms": "^3.0.0",
     "fasterimage/fasterimage": "~1.2",
-    "balazscsaba2006/amplify": "dev-master"
+    "readtedium/craft3-amplify": "dev-master"
   },
   "require-dev": {
     "codeception/codeception": "^2.4"
