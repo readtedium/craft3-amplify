@@ -1,5 +1,5 @@
 {
-  "name": "readtedium/tediumamplify",
+  "name": "balazscsaba2006/amplify",
   "description": "Twig filter for the Craft CMS 3 to optimize rich text content for Google AMP.",
   "type": "craft-plugin",
   "keywords": [
@@ -28,12 +28,17 @@
   "require": {
     "php": ">=7.0",
     "craftcms/cms": "^3.0.0",
-    "fasterimage/fasterimage": "~1.2",
-    "guzzlehttp/guzzle": "dev-master"
+    "fasterimage/fasterimage": "~1.2"
   },
   "require-dev": {
     "codeception/codeception": "^2.4"
   },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
   "autoload": {
     "files": [
       "src/lib/simple_html_dom.php"
