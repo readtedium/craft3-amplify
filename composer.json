@@ -1,5 +1,5 @@
 {
-  "name": "readtedium/tedium-amplify",
+  "name": "readtedium/tediumamplify",
   "description": "Twig filter for the Craft CMS 3 to optimize rich text content for Google AMP.",
   "type": "craft-plugin",
   "keywords": [
